@@ -21,7 +21,7 @@ $navbar-default-color: $light-orange;
     font-weight: bold;
 }
 #logo:hover {
-    color: wihte;
+    color: white;
     text-decoration:none;
 }
 
@@ -31,6 +31,12 @@ body {
 }
 .nav_item {
     margin-left: 25px;
+    float: left;
+    margin-top: 20px;
+}
+
+.nav_ul_item {
+    padding-left: 25px;
     float: left;
     margin-top: 20px;
 }
